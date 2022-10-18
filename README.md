@@ -4,11 +4,11 @@ Projeto para a Seleção de Incubação +praTi Outubro
 CRUD de pessoas/alunos com o terminal usando a linguagem JAVA.
 
 * Funcionalidades:
-criar pessoa/aluno
-mostrar todas as pessoas/alunos criados
-atualizar os dados de uma pessoa/aluno
-deletar uma pessoa/aluno
-encerrar o programa
+- Criar pessoa/aluno
+- Mostrar todas as pessoas/alunos criados
+- Atualizar os dados de uma pessoa/aluno
+- Deletar uma pessoa/aluno
+- Encerrar o programa
 
 ## Informações:
 * Nome, Telefone, Data de nascimento, Data de cadastro, Data alteração, Nota Final do curso(somente se for aluno).
